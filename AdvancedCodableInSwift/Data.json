@@ -1,0 +1,25 @@
+[
+    {
+        "userId": 1,
+        "first_name": "R",
+        "last_name": "I",
+        "username": "RI",
+        "date_of_birth": "1983-04-26T18:20:00Z",
+        "occupation": {
+            "name": "iOS developer",
+            "isActive": true
+        }
+    },
+    {
+        "userId": 2,
+        "first_name": "R",
+        "last_name": "I",
+        "username": "RI",
+        "date_of_birth": "1983-04-26T18:20:00Z",
+        "occupation": {
+            "name": "QA engineer",
+            "isActive": true
+        }
+    },
+]
+ 
